@@ -1,0 +1,22 @@
+{
+  "name": "js-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longcui/js-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longcui/js-practise/issues"
+  },
+  "homepage": "https://github.com/longcui/js-practise#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
