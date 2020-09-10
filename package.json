@@ -18,5 +18,9 @@
   "homepage": "https://github.com/longcui/js-practise#readme",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "dot-prop-immutable-chain": "0.0.3",
+    "moment": "^2.27.0"
   }
 }

@@ -1,1 +1,5 @@
 # js-practise
+
+## todo
+1. Support babel (could not use ?? currently)
+2. Use import in test file (currently I use require(""))
